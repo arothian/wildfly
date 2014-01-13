@@ -159,7 +159,7 @@ class Constants {
 
     private static final String INTERLEAVING_NAME = "interleaving";
 
-    private static final String NOTXSEPARATEPOOL_NAME = "no-tx-separate-pool";
+    private static final String NOTXSEPARATEPOOL_NAME = "no-tx-separate-pools";
 
     private static final String PAD_XID_NAME = "pad-xid";
 
